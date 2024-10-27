@@ -14,6 +14,25 @@ CUDA_Ver:11.8
 ## Adopted(Changable) Environment:
 Python version:3.10.0
 Pytorch version: [2.3.0](https://pytorch.org/get-started/previous-versions/)
+## Package versions
+```
+mmcv                   2.2.0  
+mmdet                  3.3.0  
+mmengine               0.10.5  
+mmpretrain             1.2.0  
+mmsegmentation         1.2.2  
+numpy                  1.24.3  
+opencd                 1.1.0  
+opencv-python          4.10.0.84  
+opendatalab            0.0.10  
+openmim                0.3.9  
+openxlab               0.1.2  
+packaging              24.1  
+setuptools             60.2.0  
+torch                  2.3.0  
+torchaudio             2.3.0  
+torchvision            0.18.0  
+```
 
 # Fixs
 When trying install GPU-version 'mmcv', [mmcv wheel](https://download.openmmlab.com/mmcv/dist/cu118/torch2.3/index.html)
